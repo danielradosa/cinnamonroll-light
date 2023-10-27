@@ -6,6 +6,9 @@
 
 ---
 
+To install, manually add the theme with a `.vsix` file from a release   
+or download this repo and use the command `vsce package` to create the `.vsix`.
+
 This theme is pretty light, using pink, blue accents with  
 having a very bright coloring for strings, variables, tags etc...
 
