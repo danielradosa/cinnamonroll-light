@@ -1,4 +1,4 @@
-# Cinnamonroll Theme by dango
+# Cinnamoroll Theme by dango
 
 ### A cutesy light theme for all the sanrio fans
 

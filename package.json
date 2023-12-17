@@ -14,14 +14,14 @@
     "contributes": {
       "themes": [
         {
-          "label": "Cinnamonroll",
+          "label": "Cinnamoroll",
           "uiTheme": "vs-light",
           "path": "./themes/cinna-roll-theme.json"
         }
       ]
     },
-    "displayName": "Cinnamonroll | LIGHT THEME",
-    "name": "cinnamonroll-theme",
+    "displayName": "Cinnamoroll | LIGHT THEME",
+    "name": "cinnamoroll-theme",
     "readme": "README.md",
     "icon": "cinnamonroll.png"
   }
