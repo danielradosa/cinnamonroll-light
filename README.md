@@ -2,7 +2,7 @@
 
 ### A cutesy light theme for all the sanrio fans
 
-### Or generally cute poeple
+### Or generally cute people
 
 ---
 
