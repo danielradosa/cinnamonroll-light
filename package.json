@@ -1,28 +1,27 @@
 {
     "publisher": "dango",
     "author": {
-      "name": "Daniel Radosa",
-      "email": "28@danielradosa.com"
+        "name": "Daniel Radosa",
+        "email": "28@danielradosa.com"
     },
     "engines": {
-      "vscode": "^1.0.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
-      "Themes"
+        "Themes"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "contributes": {
-      "themes": [
-        {
-          "label": "Cinnamoroll",
-          "uiTheme": "vs-light",
-          "path": "./themes/cinna-roll-theme.json"
-        }
-      ]
+        "themes": [
+            {
+                "label": "Cinnamoroll",
+                "uiTheme": "vs-light",
+                "path": "./themes/cinna-roll-theme.json"
+            }
+        ]
     },
     "displayName": "Cinnamoroll | LIGHT THEME",
     "name": "cinnamoroll-theme",
     "readme": "README.md",
     "icon": "cinnamonroll.png"
-  }
-  
+}
