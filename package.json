@@ -10,12 +10,12 @@
     "categories": [
         "Themes"
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "contributes": {
         "themes": [
             {
                 "label": "Cinnamoroll",
-                "uiTheme": "vs-light",
+                "uiTheme": "vs",
                 "path": "./themes/cinna-roll-theme.json"
             }
         ]
